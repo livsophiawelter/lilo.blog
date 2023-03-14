@@ -6,8 +6,6 @@ description = ""
 +++
 ![]()
 
-## My Name
+## Liv Welter
 
-mail@example.org
-
-Here should be some info about me...
+liv.sophia.welter@gmail.com
