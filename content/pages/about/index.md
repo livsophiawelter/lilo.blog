@@ -1,10 +1,10 @@
 +++
-title = "About me"
+title = "Liv Welter"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
-![](/img/default-author.jpg)
+![]()
 
 ## My Name
 
