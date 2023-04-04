@@ -7,15 +7,17 @@ description = "Sabine und Ute haben den Brustkrebs erfolgreich bekämpft, doch s
 +++
 
 
-## **Diagnose** 
+Sabine und Ute haben den Brustkrebs erfolgreich bekämpft, doch soll man in jedem Fall therapieren? Diese Reportage soll Aufschluss über die Reise mit dem Krebs und den zusammenhängenden Umständen geben.
+
+## **Diagnose**
 
 Dreissig Prozent. Nachts lag ich schlaflos im Bett, starrte an die Decke und dachte: Was bedeuten dreissig Prozent? Wenn man an der Grenze zwischen Leben und Tod steht, der Krebs einen aushöhlt und das Leben einem nur noch Leiden bereitet, stellt sich die Frage: Krebs… Leben um jeden Preis? Auf der Suche nach Antworten, haben wir uns mit Sabine und Ute unterhalten. Zwei aufgestellte, lebensfrohe Frauen. 165 km trennen uns von unseren Interviewpartnerinnen, die Gespräche fanden über die Plattform Teams statt. So trafen wir Beide pünktlich um 16 Uhr vor dem Bildschirm an, als Hintergrund haben sie ein Buisnesszimmer eingeblendet.
 
 Ute war 52 Jahre alt, als sie einen 1-2 cm grossen Knoten in ihrer rechten Brust erfühlte, mit böser Vorahnung liess sie sich von einer Onkologin untersuchen. «Als ich mit der Krankheit Krebs diagnostiziert wurde, fühlte es sich an, als würde mir der Boden unter den Füssen weggezogen, man steht vor einem langen Prozess, der viel Kraft und Willensstärke fordert.» Der Brustkrebs, medizinisch das Mammakarzinom, ist die häufigste Krebserkrankung bei Frauen. In der Schweiz erkranken jährlich 6300 Frauen. Krebszellen breiten sich unkontrolliert in der Brustdrüse aus, dabei unterscheidet man zwischen invasivem und nicht-invasivem Brustkrebs, invasiv bedeutet, die Krebszellen sind ins Nachbargewebe eingedrungen, Ute hatte einen nicht-invasiven Krebs, das heisst es liegt eine örtlich begrenzte Vorstufe des Brustkrebses vor. Ute versuchte viele wertvolle Informationen über die Krankheit Krebs zu bekommen, um die Angst, die sie vor dem Krebs hatte, in Respekt umzuwandeln. Dies ist und war sehr wichtig für ihren Umgang mit der Krankheit, denn Angst, Ungewissheit seien sehr unangenehme Begleiter. «Kenne deinen Feind», ist unter Ärzt: Innen ein altbekannter Spruch, um den Krebs heilen zu können, muss man ihn, mit all seinen Tücken, vollständig verstehen.
 
+![Simulation eines Brustkrebses]()
 
-
-## Therapie 
+## Therapie
 
 «Das Erste, was mir der Frauenarzt gab, war eine Visitenkarte eines Perückenmachers» Sabine erklärt, dass es auch Leute gab, die nicht mit ihrer Diagnose umgehen konnten. Umso wichtiger war für sie zu sehen, dass es Leute gab, die immer anriefen, unabhängig davon, ob es ihr gerade gut oder schlecht ging. Sie habe gemerkt, wer zu ihr steht. «Meine Töchter und mein Mann waren eine grosse Hilfe.» Frauenklinik, Inselspital, der Raum mit den ausschliesslich weissen Möbeln erstrahlt in hellem Licht. Dr. med. Rabaglio kommt zur Tür hinein, unter dem Arm ein ebenfalls weisses Klemmbrett. «Die Idee, dass man Krebs mehr und mehr heilen kann, faszinierte mich». Rabaglio arbeitet seit mehr als 20 Jahren im Fachgebiet der Onkologie, täglich befasst sie sich mit Brustkrebs PatientInnen. Richtig, Patienten und Patientinnen, Rabaglio verweist darauf, dass auch Männer an Brustkrebs erkranken können, jedoch ist die Erkrankung bei Männern sehr selten.
 
@@ -30,7 +32,7 @@ und im Vergleich zur herkömmlichen Diagnosemethode Mammografie ist die «Finger
 Strahlenbelastung ausgesetzt, was oft als unangenehm wahrgenommen wird. Brustkrebs früh zu erkennen, ist von enormer Wichtigkeit, denn nur so kann man frühzeitig reagieren und hat somit höhere Chancen auf eine Heilung.
 ```
 
-## «Wer kann mir noch was? Ich habe Krebs besiegt!» 
+## «Wer kann mir noch was? Ich habe Krebs besiegt!»
 
 Was für Manuela Alltag ist, gehört für Krebs Patient*innen zu einer der einschneidendsten Erlebnisse ihres Lebens. Als Sabine zum ersten Mal realisierte, dass sie Krebs hat, fühlte sie sich hilflos, doch viele haben ihr geholfen, den furchtbaren Krebs mental durchzustehen: « ‘Fear is an Illusion. False Evidence, Appearing, Real’; Angst hält dich zurück, du kannst nicht richtig reagieren, weil du in Panik gerätst, du bist dir nicht sicher, nicht alle deine Sinne sind da, um eine gute Entscheidung zu treffen.» 
 
@@ -42,21 +44,15 @@ Es gibt auch Patient*innen, die sich nicht behandeln lassen wollen: «In einem s
 
  «Ich würde je nach Situation vorgehen; wenn ich weiss, dass eine weitere Behandlung nur Nebenwirkungen mit sich bringt, werde ich meinen Patient\*innen definitiv raten darauf zu verzichten», erklärt Dr. Rabaglio. Anders als bei Sabine und Ute gibt es Patient\*innen, bei denen der Krebs schon so stark fortgeschritten ist, dass Behandlungen mehr Nebenwirkungen, als die Chance auf Heilung mit sich bringen. Supportive Mittel werden in diesem Fall eingesetzt, um die verbleibende Zeit bestmöglich überstehen zu können. 
 
-
-
-## Verbreitet den Krebs in den Medien! 
+## Verbreitet den Krebs in den Medien!
 
 Sabine gründete in Stryker ihre eigene Selbsthilfe Gruppe: «Die Krankheit soll nicht tabuisiert werden.» Sabine und Ute hatten sich beide durchs Internet gefressen, um alles über den Krebs zu erfahren. Durch ihre Recherchen fand Sabine einen Booster, von dem sie ihren Ärzt*innen berichtete und nach dessen Einführung, ihre Therapie von 28 auf 18 Bestrahlungen reduziert wurde. Wenn sich die Menschen mehr austauschen würden, wären solche Ratschläge bekannter. Man kann über Diagnosen oder Statistiken sprechen, aber die eigene Geschichte zu teilen, bringt die Menschen zusammen und motiviert dabei, sich ihren Herausforderungen zu stellen. «Leute sind froh, wenn man mit ihnen spricht, auch wenn die Worte fehlen», erklärt Sabine. Beide wünschten sich bei diesem Thema mehr Präsenz in den Medien.
-
-
 
 ## Krebs-Prognosetest
 
  Als Ute diagnostiziert wurde und nachdem sie ihren Tumor herausoperiert hatte, gab es die Möglichkeit einen sogenannten Zukunftstest durchzuführen, der die Wahrscheinlichkeit eines Rezidivs anzeigt. Da diese Prozentzahl bei Ute hoch war, führte sie nach der Operation noch eine Chemotherapie durch. Sabine wurde andererseits schon diagnostiziert, bevor der Zukunftstest vorhanden war. Heute besteht jedoch die Gelegenheit sich testen zu lassen. Sabine hat sich gefragt, ob sie wissen will, wie gross die Chance auf einen Rückfall ist und ob sie dann auch nochmals eine Therapie durchführen würde. Lange hat sie sich mit der Frage auseinandergesetzt und schlussendlich entschieden, es nicht zu tun. Sie fühlt sich in ihrer jetzigen Situation mit den regelmässigen Kontrollen wohl und ist zufrieden, wo sie jetzt steht. Denn während wir diese Reportage vervollständigen, ist sie in Sri Lanka unterwegs auf einem Wellness Trip!
 
 # «Es war unser Kampf!»
-
-
 
 ## Heilung
 
