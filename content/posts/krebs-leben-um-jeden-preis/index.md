@@ -24,7 +24,9 @@ Ute war 52 Jahre alt, als sie einen 1-2 cm grossen Knoten in ihrer rechten Brust
 
 Im Alltag ist Manuela Rabaglio mit vielerlei Tätigkeiten beschäftigt «Ich erstelle Therapiepläne, diese werden meist in Zyklen geführt. Es werden Infusionen und Medikamente verabreicht, Blutwerte/ Nebenwirkungen kontrolliert. Neue Patient\*innen werden einer Biopsie unterzogen, um den auf sie zugeschnittenen Therapieplan, erstellen zu können». Während einer Biopsie findet man zum Beispiel heraus, ob ein/e Patient\*in Hormonrezeptor positiv oder negativ ist. Positiv bedeutet, die Hormone Östrogen und Progesteron können an die Rezeptoren binden, dies wiederum fördert das Krebswachstum. «Durch den Krebs bin ich Salatliebhaberin geworden» Ute und Sabine verzichten auf übermässigen Fleischkonsum, Milch sei nicht mehr in ihren Kühlschränken vorzufinden, denn sowohl Fleisch als auch Milch enthalten die oben genannten Hormone.
 
-> ## «Wer kann mir noch was? Ich habe Krebs besiegt!»
+
+
+## «Wer kann mir noch was? Ich habe Krebs besiegt!»
 
 Was für Manuela Alltag ist, gehört für Krebs Patient*innen zu einer der einschneidendsten Erlebnisse ihres Lebens. Als Sabine zum ersten Mal realisierte, dass sie Krebs hat, fühlte sie sich hilflos, doch viele haben ihr geholfen, den furchtbaren Krebs mental durchzustehen: « ‘Fear is an Illusion. False Evidence, Appearing, Real’; Angst hält dich zurück, du kannst nicht richtig reagieren, weil du in Panik gerätst, du bist dir nicht sicher, nicht alle deine Sinne sind da, um eine gute Entscheidung zu treffen.» 
 
@@ -44,7 +46,9 @@ Sabine gründete in Stryker ihre eigene Selbsthilfe Gruppe: «Die Krankheit soll
 
  Als Ute diagnostiziert wurde und nachdem sie ihren Tumor herausoperiert hatte, gab es die Möglichkeit einen sogenannten Zukunftstest durchzuführen, der die Wahrscheinlichkeit eines Rezidivs anzeigt. Da diese Prozentzahl bei Ute hoch war, führte sie nach der Operation noch eine Chemotherapie durch. Sabine wurde andererseits schon diagnostiziert, bevor der Zukunftstest vorhanden war. Heute besteht jedoch die Gelegenheit sich testen zu lassen. Sabine hat sich gefragt, ob sie wissen will, wie gross die Chance auf einen Rückfall ist und ob sie dann auch nochmals eine Therapie durchführen würde. Lange hat sie sich mit der Frage auseinandergesetzt und schlussendlich entschieden, es nicht zu tun. Sie fühlt sich in ihrer jetzigen Situation mit den regelmässigen Kontrollen wohl und ist zufrieden, wo sie jetzt steht. Denn während wir diese Reportage vervollständigen, ist sie in Sri Lanka unterwegs auf einem Wellness Trip!
 
-# «Es war unser Kampf!»
+
+
+> # «Es war unser Kampf!»
 
 ## Heilung
 
