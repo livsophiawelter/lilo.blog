@@ -3,6 +3,7 @@ title = "Krebs, Leben um jeden Preis?"
 date = "2023-04-04"
 draft = false
 pinned = false
+image = "different-people-pattern-seamless-vector-01.webp"
 description = "Sabine und Ute haben den Brustkrebs erfolgreich bekämpft, doch soll \nman in jedem Fall therapieren? Diese Reportage soll Aufschluss über die \nReise mit dem Krebs und den zusammenhängenden Umständen geben."
 +++
 
